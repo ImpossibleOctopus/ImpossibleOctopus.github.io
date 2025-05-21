@@ -1,3 +1,0 @@
-# neeka
-
-neeka.social
